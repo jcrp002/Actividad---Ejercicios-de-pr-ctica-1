@@ -61,7 +61,7 @@ Actividad1
 │
 └── README.md
 
-Capturas de pantalla 
+📸 Capturas de pantalla 
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cf49365a-6c5e-44bc-91c6-4a101ba43300" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/eefb199f-8f1e-45b3-8412-729b318b1a6b" />
