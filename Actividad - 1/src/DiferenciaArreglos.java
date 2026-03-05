@@ -7,17 +7,18 @@ public class DiferenciaArreglos {
         Scanner scanner = new Scanner(System.in);
 
         // Definición de los arreglos
-        double[] arreglo1 = new double[7];
-        double[] arreglo2 = new double[7];
-        double[] arregloDiferencia = new double[7];
+        int[] arreglo1 = new int[7];
+        int[] arreglo2 = new int[7];
+        int[] arregloDiferencia = new int[7];
 
-        double sumaTotal = 0;
-
+        int sumaTotal = 0;
+        
+        
         // Ingreso de datos para el primer arreglo
         System.out.println("Ingrese 7 números para el primer arreglo:");
         for (int i = 0; i < 7; i++) {
             System.out.print("Número " + (i + 1) + ": ");
-            arreglo1[i] = scanner.nextDouble();
+            arreglo1[i] = scanner.nextInt();
             sumaTotal += arreglo1[i];
         }
 
@@ -25,7 +26,7 @@ public class DiferenciaArreglos {
         System.out.println("\nIngrese 7 números para el segundo arreglo:");
         for (int i = 0; i < 7; i++) {
             System.out.print("Número " + (i + 1) + ": ");
-            arreglo2[i] = scanner.nextDouble();
+            arreglo2[i] = scanner.nextInt();
             sumaTotal += arreglo2[i];
         }
 
