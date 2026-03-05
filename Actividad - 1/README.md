@@ -70,6 +70,7 @@ Actividad1
 👤 Autores
 
 Camilo Rendón Pineda
+
 Yuly Alejandra Moreno Bran
 
 Nota: Lo hicimos juntos, pero por buscar completar la practica de crear y gestionar cada uno su repositorio, lo hicimos de esa manera.
